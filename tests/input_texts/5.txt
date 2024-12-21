@@ -1,0 +1,295 @@
+王明：这是什么？
+李红：这是书。
+王明：那是什么？
+李红：那是钢笔。
+王明：那是杂志吗？
+李红：不，那不是杂志。那是字典。
+
+Wáng Míng: Zhè shì shěnme?
+Lǐ Hóng: Zhè shì shū.
+Wáng Míng: Nà shì shěnme?
+Lǐ Hóng: Nà shì gāngbǐ.
+Wáng Míng: Nà shì zázhì ma?
+Lǐ Hóng: Bù, nà bùshì zázhì. Nà shì zìdiǎn.
+
+Text 2
+Dialogue 1
+Duration: 14 seconds.0:14
+王明是中国人。
+王明是学生。
+史密斯是美国人。
+史密斯是王明的朋友。
+史密斯是律师。
+
+Wáng Míng shì Zhōngguórén.
+Wáng Míng shì xuéshēng.
+Shīmìsī shì Měiguórén.
+Shīmìsī shì Wángmíng de péngyǒu.
+Shīmìsī shì lǜshī.
+
+Vocabulary
+王明 (Wáng Míng)
+n. Wang Ming [personal name] [Wang= Family Name, Ming=First name/Personal name]
+李红／李紅 (Lǐ Hóng)
+n. Li Hong [personal name] [Li= Family Name, Hong= First/Personal name]
+这/這 (zhè)
+pron. this
+是 (shì)
+v. to be (is/are)
+什么／甚麼 (Mainland shénme
+and Taiwan shěme)
+pron. what
+那 (nà)
+pron. that
+笔 (bǐ)
+n. pen; a generic term for all pens
+钢笔 (gāngbǐ)
+n. fountain pen
+铅笔 (qiānbǐ)
+n. pencil
+原子笔 (yuánzǐbǐ)
+n. ballpoint pen
+毛笔 (máobǐ)
+n. brush (calligraphy pen)
+杂志 (zázhì)
+n. magazine
+报纸 (bàozhī)
+n. newspaper
+书本 (shūběn)
+n. book
+传单 (chuándān)
+n. pamphlet
+吗 (ma)
+final interrogative particle used
+to form a question sentence
+不 (bù)
+adv. no
+字典 (zìdiǎn)
+n. dictionary
+人 (rén)
+n. person/people
+中国人 (Zhōngguórén)
+n. PRC Chinese (中国：China　人：people)
+外国人 (Wàiguórén)
+n. Foreigners (外：Outside　国：Country　人：people)
+日本人 (Rìběnrén)
+n. Japanese (日本：Japan 人：people)
+英国人 (Yīngguórén)
+n. British (英国：United Kingdom 人：people)
+新加坡人 (Xīnjiāpōrén)
+n. Singaporean （新加坡：Singapore)
+美国人 (měiguórén)
+n. American
+学生 (xuéshēng)
+n. student
+老师 (lǎoshī)
+n. teacher
+校长 (xiàozhǎng)
+n. principal
+史密斯 (Shǐmìsī)
+n. Smith
+美国人 (Měiguórén)
+n. American
+朋友 (péngyǒu)
+n. friend
+律师 (lǜshī)
+n. lawyer
+笔记本/筆記本 (bǐjìběn)
+铅笔/鉛筆 (qiānbǐ)
+英国人/英國人 (Yīngguórén)
+法国人/法國人 (Fǎguórén)
+报纸/報紙 (bàozhǐ)
+老师/老師 (lǎoshī)
+作家 (zuòjiā)
+n. notepads
+n. pencil
+n. British people
+n. French people
+n. newspaper
+n. teacher
+n. writer
+
+Stroke orders
+
+
+
+More stroke orders will be added if it's helpful.
+
+Grammar
+Chinese Names
+In Chinese names, the family name comes before the given name. Family names are passed down paternally and usually have only one character. Chinese given names are usually two characters long, but may also be one character.
+Hence a man called 王明 (Wáng Míng) is addressed as Mr. Wang, not Mr. Ming. A woman called 李红 (Lǐ Hóng) is addressed as Mrs./Miss Li.
+
+However, if the person has a western personal name, it is presented in the GIVEN-NAME/FAMILY-NAME format, following the Western convention. Hence if 李红 (Lǐ Hóng) has a western-style personal name of Mary, she is usually introduced as "Mary Li" and not "Li Mary"
+
+
+
+In this lesson, we learn how to say "something is something" in Chinese. The first thing you need to know is that the sentence structure of Chinese is very similar to that of English in that they both follow the pattern of Subject-Verb-Object (SVO). But unlike many Western languages, verbs in Chinese aren't conjugated and noun and adjective endings don't change. They are never affected by things such as time or person.
+
+这(/那)是什么？
+This sentence means "What's this/that?":
+
+这是什么？(What's this?)
+那是什么？(What's that?)
+The sentences, if broken down literally, shows that the ordering of words differs in English and Chinese:
+
+这/那	是	什么	?
+this/that	is	what	?
+The order of the sentences may seem a little bit tricky, but don't worry about that, we will discuss this later.
+
+A　是　B
+This sentence means "A is B."
+
+"是" (shì), the equational verb to be, can be used as the English is or equals. When used in a simple Subject-Verb-Object sentence, the subject defines the object. Since Chinese verbs never change, no other forms for shì exist such as was or am in English. Also, articles like a and the are absent in Chinese. They are not translated.
+
+For example:
+
+这是书 (zhè shì shū): this is (a) book.
+那是杂志 (nà shì zázhì): that is (a) magazine.
+A　不是　B
+This sentence means "A is not B." in which shì is negated when preceded by "不" (bu). "不" literally means "no", "not".
+
+For example:
+
+这不是书 (zhè bú shì shū): this is not (a) book.
+Now, we come back to the "what's this/that?" questions. We already see that the order is a bit tricky comparing to the English question order. But comparing to the latter pattern "A　是　B", we find the similarity: their orders are identically the same. In fact, like particles, question words make statements into questions without changing the order of the sentence. To make one, simply substitute the QW in where the subject would be in the answer.
+
+Comparison:
+
+这是书。(This is (a) book.)
+这是什么？(This is what?)
+那是杂志。(That is (a) magazine.)
+那是什么？(That is what?)
+吗
+"吗"(ma) is a final interrogative particle used to form a question sentence. Adding this character at the end of a statement transforms the sentence into a question.
+
+Example 1:
+
+这是书 (zhè shì shū)。(This is (a) book.)
+↓
+这是书吗 (zhè shì shū ma)？(Is this (a) book?)
+Example 2:
+
+这不是杂志 (zhè bú shì zázhì)。(This is not (a) magazine.)
+↓
+这不是杂志吗(zhè bú shì zázhì ma)？(Isn't this (a) magazine?)
+是/不
+"是" (shì) can be used to answer a simple yes/no question. In this case, "是" means yes, whilst "不" (bú) or "不是" (bú shì) means no (literally, not is).
+
+How to answer yes/no questions correctly in Chinese? Usually, it's the same as in English, but pay attention if the questions are negative, like "Isn't this a book?". In Chinese, you answer to the questions, not the fact. If the question itself is a negative answer, use "不是" or simply "不", vice versa. For example:
+
+A: 这不是书吗？zhè bú shì shū ma? (Isn't this (a) book? = This is not a book, right?)
+B: 是，这不是书。shì, zhè bú shì shū. (No, this is not (a) book. = You are right; this is not a book.)
+B: 不，这是书。bù, zhè shì shū. (Yes, this is (a) book. = You're wrong; this is a book.)
+A asks if that's a book in a negative way. If the object is not a book, you should nevertheless approve A's saying first. So we use "是" to acknowledge that A is correct, and then say "this is not (a) book" to emphasis A is right; In the case of that is a book, you should deny A's saying first, using "不" (no) to point out A is wrong, then make a new statement by noting that "这是书" (this is (a) book). One more example:
+
+他今天晚上不来参加宴会了，对吗？(He's not going to the party tonight, is he?)
+不，他肯定要来。(Yes, he's definitely coming.)
+是 啊，他很忙呢！(No, he's so busy!)
+的
+Character "的" (de) indicates that the previous word has possession of the next one. In English it functions like 's or like the word of but with the position of possessor and possessee switched. For example:
+
+史密斯(Shǐmìsī)的书(shū: book) <-> Smith's book
+王明的钢笔 <-> Wang Ming's pen
+约翰** (Yuēhàn: John)的朋友** (péngyǒu: friend) <-> John's friend or a friend of John's
+Exercise
+Replace the underline words, and practice.
+史密斯是美国人。
+英国人
+法国人
+这不是杂志。
+书
+笔记本*
+铅笔
+Replace the underline words, and then answer the questions with both positive answers and negative answers.
+Example:
+史密斯是法国人吗？
+是，史密斯是法国人。
+不，史密斯不是法国人。
+那是杂志吗？
+钢笔
+铅笔
+报纸*
+王明是学生吗？
+律师
+老师*
+作家*
+Translate the following English into Chinese.
+Wang Ming is not a teacher. Wang Ming is a student. Wang Ming is a Chinese. Wang Ming is not an American.
+Answer(答):Wang Ming不是老師。Wang Ming是學生。Wang Ming是中國人。Wang Ming不是美國人。
+Smith is a lawyer. Smith is not a writer. Smith is an American. Smith is not a French.
+Answer(答):Smith是律師。Smith不是作家。Smith是美國人。Smith不是法國人。
+This is Smith's book. That is Wang Ming's pen.
+Answer(答):這是Smith的書。那是Wang Ming的筆。
+Further reading
+Read the following article, and then answer the questions in Chinese.
+
+你好(nǐhǎo, hello)，我(wǒ, I)是王明。我是学生，我是中国人。这是史密斯。史密斯是我的1 朋友，史密斯是律师。那是史密斯的妻子(qīzi, wife)，安娜(Ana)。安娜是我的英语(yīngyǔ, English language)老师。
+1."我　的" means "my", we will discuss this in the next lesson.
+Questions:
+
+Who is "I"?
+What does Smith do?
+Who is Ana?
+What does Ana do?
+Useful phrases
+Greetings. How to greet people in Chinese?
+你好！(nǐhǎo): Hello!
+嗨！(hài): Hi!
+幸會 (xìnghuì) Great to meet you!
+你吃过饭了吗？(nǐ chīguofàn le ma?): Have you had your meal? (This is a causal greeting between friends etc. But it doesn't mean you are asked to a dinner! Another derivation of this phrase commonly used in Beijing is "你吃了吗？")
+再见。(zàijiàn): Goodbye
+拜拜。(bāibāi): Bye-bye
+回头见。(huítóujiàn): See you later.
+Translation for the text
+Chinese characters	Sentences breakdown	English translation
+Text 1
+王明：这是什么？
+(王明：這是什麼？)
+李红：这是书。
+(李紅：這是書。)
+王明：那是什么？
+(王明：那是什麼？)
+李红：那是钢笔。
+(李紅：那是鋼筆。)
+王明：那是杂志吗？
+(王明：那是雜誌嗎？)
+李红：不，那不是杂志。那是字典。
+(李紅：不，那不是雜誌。那是字典。)
+
+Text 1
+Wang Ming: This is what?
+Li Hong: This is book.
+Wang Ming: That is what?
+Li Hong: That is pen.
+Wang Ming: That is magazine (final interrogative particle)?
+Li Hong: No, that not is magazine, this is dictionary.
+
+Text 1
+Wang Ming: What's this?
+Li Hong: This is a book.
+Wang Ming: What's that?
+Li Hong: That's a pen.
+Wang Ming: Is this a magazine?
+Li Hong: No, that's not a magazine. That's a dictionary.
+
+Text 2
+王明是中国人。
+王明是学生。
+史密斯是美国人。
+史密斯是王明　的　朋友。
+史密斯是律师。
+
+Text 2
+Wang Ming is Chinese.
+Wang Ming is student.
+Smith is American.
+Smith is Wang Ming's friend.
+Smith is lawyer.
+
+Text 2
+Wang Ming is a Chinese.
+Wang Ming is a student.
+Smith is an American.
+Smith is Wang Ming's friend.
+Smith is a lawyer.
